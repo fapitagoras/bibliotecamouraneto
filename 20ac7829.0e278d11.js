@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{106:function(e){e.exports=JSON.parse('{"docsSidebars":{"someSidebar":[{"type":"category","label":"Biblioteca Moura Neto","items":[{"type":"link","label":"Sobre","href":"/docs/sobre"}]}]},"permalinkToSidebar":{"/docs/sobre":"someSidebar"}}')}}]);
