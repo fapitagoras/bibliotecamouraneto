@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bibliotecamouraneto.org.br/blog</id>
+    <title>Biblioteca Moura Neto Blog</title>
+    <updated>2020-05-13T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://bibliotecamouraneto.org.br/blog"/>
+    <subtitle>Biblioteca Moura Neto Blog</subtitle>
+    <icon>https://bibliotecamouraneto.org.br/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Lançamento da Biblioteca]]></title>
+        <id>https://bibliotecamouraneto.org.br/blog/2020/05/13/lanc</id>
+        <link href="https://bibliotecamouraneto.org.br/blog/2020/05/13/lanc"/>
+        <updated>2020-05-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hoje, dia 13 de Maio de 2020, estamos oficalmente lançando o site de nossa Biblioteca Moura Neto.]]></summary>
+        <content type="html"><![CDATA[<p>Hoje, dia 13 de Maio de 2020, estamos oficalmente lançando o site de nossa Biblioteca Moura Neto.</p>]]></content>
+        <author>
+            <name>JMB</name>
+        </author>
+    </entry>
+</feed>

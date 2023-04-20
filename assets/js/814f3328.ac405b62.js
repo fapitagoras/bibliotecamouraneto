@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbmn=self.webpackChunkbmn||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Lan\xe7amento da Biblioteca","permalink":"/blog/2020/05/13/lanc"}]}')}}]);
